@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748016273743",
+    "project_id": "lifelog-dev",
+    "storage_bucket": "lifelog-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748016273743:android:3c07f890402d3770325d3a",
+        "android_client_info": {
+          "package_name": "com.example.tekuteku_map_google_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748016273743-20jlebop288hb13t3knb7i8hu9tmldsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tekuteku_map_google_app",
+            "certificate_hash": "572148f87f4d08ef12359c914a72ac3d6b90c1d5"
+          }
+        },
+        {
+          "client_id": "748016273743-4n605dg30asj5d3kj01cdq6deogrhjap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoRhrLW5h2J1tM3ZKYvsAK9WOlhsuDIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748016273743-4n605dg30asj5d3kj01cdq6deogrhjap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
